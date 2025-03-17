@@ -1,0 +1,5 @@
+__pycache__/
+*.pkl
+*/credential.py
+chromedriver-win64/
+Downloaded/
